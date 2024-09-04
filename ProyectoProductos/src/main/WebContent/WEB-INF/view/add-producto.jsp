@@ -95,7 +95,7 @@
             </div>
             
             <button type="submit">Guardar</button>
-            <button type="button" class="cancel-button" onclick="window.location.href='/ProyectoProductos/productos/findAll';">Cancelar</button>
+            <button type="button" class="cancel-button" onclick="window.location.href='/ProyectoWeb/productos/findAll';">Cancelar</button>
         </form>
     </div>
 </body>

@@ -90,7 +90,7 @@
         <input type="hidden" name="idProducto" value="${producto.idProducto}" />
         <p><strong>¿Desea eliminar este producto?</strong></p>
         <button type="submit" class="btn-submit">Eliminar</button>
-        <button type="button" class="btn-cancel" onclick="window.location.href='${pageContext.request.contextPath}/productos/findAll';">Cancelar</button>
+        <button type="button" class="btn-cancel"  onclick="window.location.href='/ProyectoWeb/productos/findAll';">Cancelar</button>
     </form>
 </div>
 
